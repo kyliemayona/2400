@@ -2,25 +2,16 @@ Our group must implement:
 
 1. **Brute Force** – Examines every possible solution to find the best one.
 2. **Genetic Algorithm** – Uses ideas inspired by natural selection and evolution to find good solutions.
-3. **Third Algorithm of Our Choice** – Such as:
-   - Greedy
-   - Dynamic Programming
-   - Backtracking
-   - Branch and Bound
-   - Simulated Annealing
-   - Local Search
-   - A* or another graph algorithm
+3. **MILP** – uses decision variables, objective functions, and constraints written as
+linear equations to map out and solve real world problems.
+   
+All three algorithms will solve a meal planning problem.
 
-All three algorithms must solve the **same problem**.
-
-## 2. Group Requirements
-
-- We should ideally have **3 members**.
-- Everyone must be in the same class section.
-- Groups of 2 or 4 may be approved with a good reason.
 - We are allowed to use AI tools, including ChatGPT, for the project and proposal.
 
-We are also responsible for finding our own dataset.
-
-Some suggested sources include:
+- Some sources we have found include:
+Computer-based dietary menu planning - ScienceDirect
+A review on genetic algorithm: past, present, and future - PMC
+Manageability Challenges for Knowledge Incorporation in Genetic Algorithms: A Study Using the Meal
+Planning Problem - EUDL
 
